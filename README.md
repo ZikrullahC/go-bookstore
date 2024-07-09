@@ -8,8 +8,7 @@ This is a simple bookstore application written in Go, utilizing the Gorilla Mux 
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
